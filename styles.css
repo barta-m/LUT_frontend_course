@@ -171,3 +171,18 @@ img {
   width: 70%;
   margin-bottom: 20px;
 }
+
+/* Video */
+.video {
+  padding: 10px 0 40px;
+}
+
+.video-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.video-preview {
+  margin-bottom: 20px;
+}
