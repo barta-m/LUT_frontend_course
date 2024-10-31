@@ -187,6 +187,16 @@ img {
   margin-bottom: 20px;
 }
 
+/* Testimonials */
+.testimonials {
+  padding: 40px 0;
+}
+
+.testimonials .testimonials-heading {
+  width: 700px;
+  margin-bottom: 40px;
+}
+
 /* Background */
 .bg-primary {
   background: var(--primary-color);
@@ -202,7 +212,7 @@ img {
   color: #fff;
 }
 
-.bg-primary {
+.bg-black {
   background: #000;
   color: #fff;
 }
