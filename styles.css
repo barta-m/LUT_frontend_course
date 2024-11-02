@@ -93,7 +93,7 @@ slider > * {
   width: 100%;
   height: 100%;
   background-color: #1f1f1f;
-  animation: slide 12s infinite;
+  animation: slide 20s infinite;
   overflow: hidden;
 }
 
@@ -108,7 +108,7 @@ slide:nth-child(1) {
 
 slide:nth-child(2) {
   left: 100%;
-  animation-delay: 2s;
+  animation-delay: 4s;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(slides/2.jpg);
   background-size: cover;
@@ -117,7 +117,7 @@ slide:nth-child(2) {
 
 slide:nth-child(3) {
   left: 100%;
-  animation-delay: 5s;
+  animation-delay: 9s;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(slides/3.jpg);
   background-size: cover;
@@ -126,7 +126,7 @@ slide:nth-child(3) {
 
 slide:nth-child(4) {
   left: 100%;
-  animation-delay: 8s;
+  animation-delay: 14s;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(slides/4.jpg);
   background-size: cover;
