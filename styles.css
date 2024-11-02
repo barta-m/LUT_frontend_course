@@ -395,7 +395,7 @@ img {
 .mobile-menu {
   position: fixed;
   top: 0;
-  right: 0px;
+  right: -300px;
   width: 250px;
   height: 100%;
   z-index: 100;
